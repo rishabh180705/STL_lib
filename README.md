@@ -98,24 +98,3 @@ As the name suggests, iterators are used for working upon a sequence of values. 
 Defined in header "utility".
 
   * pair
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://JayantGoel001.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jayant Goel</b></sub></a><br /><a href="https://github.com/JayantGoel001/STL/commits?author=JayantGoel001" title="Code">💻</a> <a href="#ideas-JayantGoel001" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/JayantGoel001/STL/commits?author=JayantGoel001" title="Tests">⚠️</a> <a href="#maintenance-JayantGoel001" title="Maintenance">🚧</a> <a href="https://github.com/JayantGoel001/STL/commits?author=JayantGoel001" title="Documentation">📖</a> <a href="#content-JayantGoel001" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/tdutybqs"><img src="https://avatars.githubusercontent.com/u/35998945?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Евгений</b></sub></a><br /><a href="https://github.com/JayantGoel001/STL/commits?author=tdutybqs" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
